@@ -28,8 +28,8 @@ python runner.py
 ## Project Structure
 
 - `runner.py`: The main script to run the TicTacToe game.
-- `game.py`: Contains the game logic for TicTacToe.
-- `ui.py`: Handles the user interface using Pygame.
+- `tictactoe.py`: Contains the game logic for TicTacToe.
+- font file is used for providing font to UI
 
 Ensure all three files (`runner.py`, `game.py`, `ui.py`) are in the same folder.
 
@@ -37,7 +37,7 @@ Ensure all three files (`runner.py`, `game.py`, `ui.py`) are in the same folder.
 
 1. Launch the game by running `runner.py`.
 2. The game window will open, and you can start playing TicTacToe.
-3. Follow the on-screen instructions to play the game against the AI or another player.
+3. Follow the on-screen instructions to play the game against the AI.
 
 ## Requirements
 
